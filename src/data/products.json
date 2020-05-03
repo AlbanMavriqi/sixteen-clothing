@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Almond Toe",
+        "description": "Give younglings an appreciation of the classics with the Star Wars Skechers",
+        "price": 99.00,
+        "reviews": 20,
+        "image":"https://i.imgur.com/KKIIPxe.jpg",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "title": "Suede Shoes",
+        "description": "Give younglings an appreciation of the classics with the Star Wars Skechers",
+        "price": 42.00,
+        "reviews": 25,
+        "image":"https://i.imgur.com/JuWp9YD.jpg",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "title": "Leather Driver",
+        "description": "Give younglings an appreciation of the classics with the Star Wars Skechers",
+        "price": 34.00,
+        "reviews": 23,
+        "image":"https://i.imgur.com/PescREn.jpg",
+        "rating": 2
+    },
+    {
+        "id": 4,
+        "title": "Fine Stripe Short",
+        "description": "Give younglings an appreciation of the classics with the Star Wars Skechers",
+        "price": 19.00,
+        "reviews": 51,
+        "image":"https://i.imgur.com/pz7oHLT.jpg",
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "title": "Flip Flops",
+        "description": "Give younglings an appreciation of the classics with the Star Wars Skechers",
+        "price": 29.00,
+        "reviews": 44,
+        "image":"https://i.imgur.com/ln5oHdC.jpg",
+        "rating": 2
+    },
+    {
+        "id": 6,
+        "title": "Gold Button",
+        "description": "Give younglings an appreciation of the classics with the Star Wars Skechers",
+        "price": 167.00,
+        "reviews": 34,
+        "image":"https://i.imgur.com/d1EnI7L.jpg",
+        "rating": 3
+    },
+    {
+        "id": 7,
+        "title": "Cotton Shorts",
+        "description": "Give younglings an appreciation of the classics with the Star Wars Skechers",
+        "price": 30.00,
+        "reviews": 12,
+        "image":"https://i.imgur.com/KKIIPxe.jpg",
+        "rating": 5
+    },
+    {
+        "id": 8,
+        "title": "Fine Stripe Short",
+        "description": "Give younglings an appreciation of the classics with the Star Wars Skechers",
+        "price": 49.99,
+        "reviews": 58,
+        "image":"https://i.imgur.com/JuWp9YD.jpg",
+        "rating": 4
+    }
+]
