@@ -1,9 +1,9 @@
 import React, { Component } from "react"
 import Layout from "../components/Layout"
-import ProductsGrid from "../components/ProductsGrid"
+import About from "../components/Home/About"
 
 export default class about extends Component {
   render() {
-    return <Layout><ProductsGrid></ProductsGrid></Layout>
+    return <Layout><About></About></Layout>
   }
 }

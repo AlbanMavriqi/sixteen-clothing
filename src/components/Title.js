@@ -22,8 +22,13 @@ const TitleWrapper = styled.div`
     @media (min-width: 768px) {
         width: 60vw;
         margin: 40px 16px;
-        margin-bottom:40px;
-        margin-top:40px;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 0;
+    }
+    @media (min-width: 992px) {
+        width: 59vw;
+        margin: 40px 0;
+        margin-left: 20%;
         border-bottom: 1px solid #eee;
         padding-bottom: 0;
     }

@@ -1,8 +1,5 @@
-.about {
-  padding-bottom: 3rem;
-}
 .about-center {
-  width: 80vw;
+  width: 90vw;
   margin: 0 auto;
 }
 .about-img {
@@ -46,6 +43,7 @@
     grid-template-columns: 1fr 1fr;
     align-items: center;
     margin-top: 3rem;
+    width: 94vw;
   }
 
   .about-img,
@@ -63,6 +61,10 @@
   }
 }
 @media screen and (min-width: 992px) {
+  .about-center {
+    width: 60vw;
+  }
+
   .img-container::before {
     content: "";
     position: absolute;
@@ -78,7 +80,7 @@
 
 @media screen and (min-width: 1200px) {
   .about-center {
-    width: 95vw;
+    width: 60vw;
     max-width: 1152px;
   }
 }
